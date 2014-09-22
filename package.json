@@ -1,0 +1,14 @@
+{
+  "name": "firstbuild-examples",
+  "description": "examples for interacting with GE applicances using FirstBuild GreenBean and Octoblu",
+  "version": "0.0.1",
+  "author": "Chris Matthieu",
+  "private": true,
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "skynet": "*",
+    "green-bean": "*"
+  }
+}
